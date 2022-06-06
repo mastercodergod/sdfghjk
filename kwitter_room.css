@@ -1,0 +1,37 @@
+#logout {
+   
+width: 150px; 
+height: 50px;   
+}
+
+h1{
+  font-weight: bold;
+}
+
+#room{
+
+background-color: lightgray;
+width: 600px;
+height: 250px; 
+border-radius: 40px;
+  
+}
+
+h2 {
+  color: rgb(45, 167, 45);
+}
+
+#trend {
+  background-color: skyblue;
+  width: 600px;
+  border-radius: 40px;
+}
+
+body {
+  background-color: darkgray;
+}
+
+#username {
+  border-radius: 20px;
+  width: 300px;
+}
